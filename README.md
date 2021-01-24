@@ -1,0 +1,2 @@
+# StudyMapFilterReduceFindFindIndex
+Created with CodeSandbox
